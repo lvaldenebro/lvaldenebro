@@ -8,6 +8,6 @@ Something to know about me: I'm focused on become and amazing Full-stack WebDev!
 - 🔭 I’m currently working on ... BookHostel, my own SPMA project!
 - 🌱 I’m currently learning ... Bootstrap and more JS vanilla
 - 👯 I’m looking to collaborate on ... new projects
-- 📫 How to reach me: Contact section in www.lauravaldenebro.com
+- 📫 How to reach me: /in/laura-valdenebro
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a horse rider!
